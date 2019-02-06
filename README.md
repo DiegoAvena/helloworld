@@ -1,2 +1,2 @@
 # helloworld
-Merely prints hello world on users console.
+Merely prints hello world on user's console.
